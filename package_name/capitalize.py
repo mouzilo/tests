@@ -1,4 +1,5 @@
 def capitalize(text):
+    """Make capitalize word"""
     if text == '':
         return ''
     first_char = text[0].upper()
