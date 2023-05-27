@@ -1,4 +1,5 @@
-from package_name.capitalize import capitalize
 """Make capitalize word"""
+from package_name.capitalize import capitalize
+
 assert capitalize('hello') == 'Hello'
 assert capitalize('') == ''

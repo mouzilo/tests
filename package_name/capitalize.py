@@ -1,3 +1,4 @@
+"""Make capitalize word"""
 def capitalize(text):
     """Make capitalize word"""
     if text == '':
